@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskUI</string>
+    <string name="i_want_to_create">I want to create a</string>
+    <string name="banner">Banner</string>
+    <string name="story">Story</string>
+    <string name="post">Post</string>
+    <string name="help_me_decide">Help me decide</string>
+    <string name="similar">Similar</string>
+</resources>
